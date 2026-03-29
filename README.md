@@ -1,3 +1,1 @@
-# First
-This is my first Repository.
-Author- Kaysar Mahmud
+My very first step into the world of coding 🚀
